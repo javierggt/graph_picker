@@ -1,0 +1,14 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>/Users/javier/OneDrive/Delaware/GraphPicker/images/Cross_green.png</file>
+     <file>images/Cross_red.png</file>
+     <file>images/graph.png</file>
+     <file>images/Save.png</file>
+     <file>images/Trash.png</file>
+     <file>images/write.png</file>
+     <file>images/log_x.png</file>
+     <file>images/ZoomIn.png</file>
+     <file>images/ZoomOut.png</file>
+     <file>images/Cancel.png</file>
+ </qresource>
+ </RCC>
